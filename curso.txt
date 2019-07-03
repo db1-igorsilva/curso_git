@@ -1,0 +1,12 @@
+9:35 -> 9:45 LEITURA ARTIGO
+9:45 -> CURSO
+
+git tag: shows releases
+git diff vX.Y: shows changes log
+git blame filename.extension: shows info about the commits (what, when, who)
+git clone: clones repository into folder
+git checkout: change repository version
+git ls-files: show files that are added to git
+git status: shows files that aren't added to git
+git add: add file to git
+git commit: 
