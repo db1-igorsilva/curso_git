@@ -11,6 +11,12 @@ git status: shows untracked files
 git add: track file
 git commit: save modifications
 git init: starts a repository
+git log: commits history
+git whatchanged: shows git log + what files have been modified
+git whatchanged -p: shows git whatchanged + what have been modified inside the files
+git remote add: adds a remote repository
+git push: syncs local repository to remote repository
+git pull: syncs remote repository to local repository
 
 working directory -> repository status
 index/staging area -> pre-vision of the modifications that we want to define to the project
