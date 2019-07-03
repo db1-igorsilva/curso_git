@@ -10,3 +10,8 @@ git ls-files: show tracked files
 git status: shows untracked files
 git add: track file
 git commit: save modifications
+git init: starts a repository
+
+working directory -> repository status
+index/staging area -> pre-vision of the modifications that we want to define to the project
+HEAD -> last step of the project
