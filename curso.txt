@@ -40,7 +40,9 @@ git stash drop: delete stash
 git bisect start: start seek for what you want
 git bisect bad *commit_hash*: commit unrelated to what you want
 git bisect good *commit_hash*: commit related to what you want
-
+git pull: att master branch
+git rebase master *branch_name*: 
+vim ~/.gitconfig: edit gitconfig file
 ALWAYS MAKE BRANCHES TO WORK ON
 
 AULA 05 <-> REVISAR
