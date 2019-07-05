@@ -38,3 +38,5 @@ git tag *nome_da_versão*: faz um deploy do repositório com o nome digitado
 git tag: mostra os deploys feitos
 git diff *nome_da_versão*: mostra as diferenças entre a versão atual e a versão digitada
 git whatchanged: mostra o git log e o que foi modificado em cada commit
+
+vim ~/.gitconfig: abre arquivo de configuração do git
