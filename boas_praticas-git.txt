@@ -1,0 +1,7 @@
+	> fazer um commit curto, claro e específico para cada pequena alteração
+	> criar uma branch local sempre que for trabalhar no projeto. Após
+terminar, retornar a branch principal e fazer um pull para atualizá-la antes de
+fundir a master com a branch criada
+	> após fundir e resolver os conflitos, voltar a branch principal e fazer
+um merge da branch criada, resolvendo os conflitos que podem aparecer
+	> então, deve-se sincronizar o repositório local ao remoto
