@@ -26,6 +26,7 @@ git checkout *branch_name*: switch between branches
 git checkout -b *branch_name*: create a branch n switches to it
 git checkout -t origin/*branch_name*: create and links local and remote branches and switches to the new branch
 git fetch origin: list all modifications on a repository
+git fetch *remote_repository*: pull commits
 git merge *branch_name*: merge commits from *branch_name* to current branch
 git rebase *branch_origin* *branch_target*: update a branch based on another
 git checkout -- *file_name*: undo untracked modification
@@ -41,13 +42,13 @@ git bisect start: start seek for what you want
 git bisect bad *commit_hash*: commit unrelated to what you want
 git bisect good *commit_hash*: commit related to what you want
 git pull: att master branch
-git rebase master *branch_name*: 
+git cherry-pick *commit_hash*: import specific commit 
 vim ~/.gitconfig: edit gitconfig file
+
+FORK -> clone github project
 ALWAYS MAKE BRANCHES TO WORK ON
 
 AULA 05 <-> REVISAR
-
-
 
 working directory -> repository status
 index/staging area -> pre-vision of the modifications that we want to define to the project
