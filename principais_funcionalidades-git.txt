@@ -1,0 +1,2 @@
+git tag *nome_da_versão*: faz um deploy do repositório com o nome digitado
+git tag: mostra os deploys feitos
