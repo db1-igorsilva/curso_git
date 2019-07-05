@@ -1,3 +1,6 @@
+git config user.name "nome": configura usuário do repositório
+git config user.email "email": configura email do repositório
+
 git clone *url_do_repositório*: clona o repositório da url digitada para a pasta atual
 
 git init: inicia um repositório git na pasta atual
