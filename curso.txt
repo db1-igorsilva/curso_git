@@ -54,6 +54,3 @@ working directory -> repository status
 index/staging area -> pre-vision of the modifications that we want to define to the project
 HEAD -> last step of the project
 no branch -> temp branch to solve conflicts
-
-test
-
